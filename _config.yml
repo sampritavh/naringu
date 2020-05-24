@@ -11,8 +11,8 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
+title:               Samprita Test Site
+tagline:             'Experimenting with dark themes'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
 url:                 http://naringu.oonlab.com
 baseurl:             /
